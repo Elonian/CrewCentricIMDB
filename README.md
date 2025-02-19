@@ -1,2 +1,5 @@
 # CrewCentricIMDB
+
 IMDB Movie Rating Prediction: A Crew-Centric Approach
+
+The task at hand involves building a movie rating prediction model using the IMDB dataset, which includes movie-related metadatasuch as title ID, actors, actresses, producers, directors, number of votes, genres, start year, and average rating. While typical movie recommendation models rely heavily on user-based information (such as user ratings and preferences), this dataset lacks user-specfic data, presenting a unique challenge. Instead of utilizing user interaction data, this project will focus on leveraging available movie attributes to predict ratings. By employing collaborative filtering techniques between crew and movie and other machine learning algorithms, we aim to uncover underlying patterns in the movie metadata that correlate with higher or lower ratings. This approach will enable the creation of a robust recommendation system capable of predicting movie ratings for new or unseen !lms based on their intrinsic features.
